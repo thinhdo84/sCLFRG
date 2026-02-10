@@ -2,4 +2,5 @@
 Repository for the project of sCLF-RG
 
 
-![Alt Text](data/CLF_vtol.gif)
+
+<img src="data/CLF_vtol.gif" width="250">
